@@ -46,8 +46,8 @@ Puedes ver mi portafolio en el siguiente enlace: ![Portafolio](https://dfdev.net
 
 #### 🖥️ Frameworks
 
-![Next JS](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Django Rest](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django Rest](https://img.shields.io/badge/django--rest--framework-%20-blue?style=for-the-badge&labelColor=333333&logo=django&logoColor=white)
 #### 📚 Libraries
 
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
