@@ -23,11 +23,9 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+     <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Engineer;Web%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45">
+  </a>
 </p>
 
 ---
@@ -48,8 +46,8 @@ Puedes ver mi portafolio en el siguiente enlace: ![Portafolio](https://dfdev.net
 
 #### 🖥️ Frameworks
 
-![Next JS]([https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white))
-![Django Rest]([https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white))
+![Next JS](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django Rest](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 #### 📚 Libraries
 
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
