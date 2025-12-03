@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 Ingeniero de Sistemas egresado de la Universidad del Valle con alto rendimiento académico y gran gusto por la programación, especialmente en el área del desarrollo Front-End (con conocimientos Back-End). Con más de 1 año de experiencia en desarrollo de software, apasionado por aprender y aplicar los conocimientos adquiridos en la carrera.
 
-Puedes ver mi portafolio en el siguiente enlace: ![Portafolio](https://dfdev.netlify.app/)
+Puedes ver mi portafolio en el siguiente enlace: [Portafolio](https://dfdev.netlify.app/)
 
 ## 🛠 &nbsp;Tech Stack
 
